@@ -351,7 +351,7 @@ font-weight:300;
 }
 .edu-border{
 border:1px solid #e2e2e2;
-margin-top:50px;
+margin-top:20px;
 border-radius: 6px;
 border-bottom: 2px solid #c3c3c3;
 }
@@ -363,7 +363,7 @@ position:relative;
 }
 .edu-grid img{
 position:absolute;
-top: 25%;
+top: 27%;
 left: 40%;
 }
 /*--//education--*/
@@ -645,7 +645,7 @@ position:relative;
 .process-gird  img{
 position:absolute;
   top: 42%;
-  left: 109.5%;
+  left: 103.5%;
 }
 .process-pad{
 padding:0 25px;
