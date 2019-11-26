@@ -1,0 +1,30 @@
+{
+  "name": "kash9350",
+  "version": "1.0.0",
+  "description": "Portfolia of Kashyap Ashara",
+  "main": "index.js",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "next": "^9.1.4",
+    "next-images": "^1.2.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kash9350/kash9350.github.io.git"
+  },
+  "author": "Kashyap Ashara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kash9350/kash9350.github.io/issues"
+  },
+  "homepage": "https://github.com/kash9350/kash9350.github.io#readme"
+}
