@@ -23,8 +23,8 @@
 
 */
 
-(function() {
-  var Circles = window.Circles = function(options) {
+// (function() {
+  var Circles = function(options) {
     var elId = options.id;
     this._el = document.getElementById(elId);
     
@@ -200,8 +200,9 @@
       return Math.round(value * 1000) / 1000;
     }
   };
-
-  Circles.create = function(options) {
-    return new Circles(options);
-  };
-})();
+  // console.log(Circles.prototype,"check circles prototype")
+  // Circles.create = function(options) {
+  //   return new Circles(options);
+  // };
+  export default Circles;
+// })();

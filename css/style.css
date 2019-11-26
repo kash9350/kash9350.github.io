@@ -2348,7 +2348,7 @@ border:none;
 	  width: 51%;
 	}
 	.edu-border {
-	  margin-top: 38px;
+	  margin-top: 18px;
 	  }
 	.edu-grid p ,.edu-grid span{
 	  font-size: 14px;
@@ -2673,7 +2673,7 @@ border:none;
 	  margin-right: 9px;
 	}
 	.edu-grid:nth-child(3) {
-	  margin: 0;
+	  /* margin: 0; */
 	}
 	.w-grid {
 	  float: left;
@@ -3035,7 +3035,7 @@ border:none;
 	  margin-bottom: 30px;
 	}
 	.edu-grid img {
-	  top: 30%;
+	  top: 23%;
 	  left: 42%;
 	}
 	.work-info h3,.ser-info h3,.gallery-section h3,.process h3,.testimonials h3 ,.blog-info h3,.contact-info h3,.sam-head h3{
